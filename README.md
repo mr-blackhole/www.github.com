@@ -1,2 +1,2 @@
-# www.github.com@../../javascript:alert(3)
+# www.github.com@javascript:alert(3)
 s
